@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LilMafiaChores</string>
+    <string name="fetch_users">Get Users</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="goToRegisterLogin">RegisterLoginActivity</string>
+
+</resources>
